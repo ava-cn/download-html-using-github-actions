@@ -2,7 +2,6 @@
 
 #set -x
 
-
 # 定义URL变量
 URL="${URL:-https://www.avatrade.com.tw/trading-info/cfd-rollover-dates}"
 FILE_NAME="${FILE_NAME:-cfd-rollover-dates.html}"
